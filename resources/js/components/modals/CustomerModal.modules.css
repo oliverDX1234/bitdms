@@ -20,3 +20,17 @@
     width: 100%;
     left: 50%;
 }
+
+@media (max-width: 992px){
+    .customer-list-modal{
+        max-width: 700px;
+    }
+}
+
+@media (max-width: 768px){
+    .customer-list-modal{
+        max-width: 500px;
+    }
+}
+
+

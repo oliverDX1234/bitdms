@@ -32,7 +32,7 @@ const CustomerSearch = (props) => {
 
     return (
         <form onSubmit={handleSubmit}>
-            <div class="w-full lg:w-1/2">
+            <div className="w-full lg:w-1/2">
                 <div className="w-full">
                     <label htmlFor="customer_search" className="block mb-2 font-medium text-gray-900">Search for
                         customer here</label>
